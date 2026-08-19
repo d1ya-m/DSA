@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/d1ya-m/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/d1ya-m/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/d1ya-m/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/d1ya-m/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/d1ya-m/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/d1ya-m/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/d1ya-m/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
