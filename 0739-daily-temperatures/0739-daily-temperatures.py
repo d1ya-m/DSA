@@ -3,7 +3,7 @@ class Solution:
 
         stack=[]
         answers=[0]*len(temperatures)
-        curr=0
+        
         for i in range (len(temperatures)):
             while(stack and temperatures[stack[-1]]<temperatures[i]):
                 prev=stack.pop()
