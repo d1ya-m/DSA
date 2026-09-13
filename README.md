@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/d1ya-m/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/d1ya-m/DSA/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/d1ya-m/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/d1ya-m/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/d1ya-m/DSA/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/d1ya-m/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
