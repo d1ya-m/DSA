@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/d1ya-m/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/d1ya-m/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/d1ya-m/DSA/tree/master/0853-car-fleet) |
 ## Stack
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/d1ya-m/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/d1ya-m/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/d1ya-m/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/d1ya-m/DSA/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/d1ya-m/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/d1ya-m/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/d1ya-m/DSA/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/d1ya-m/DSA/tree/master/0394-decode-string) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/d1ya-m/DSA/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
