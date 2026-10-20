@@ -6,7 +6,7 @@ class Solution:
 
         while l<r:
 
-            d=1
+            d=1 #start at d=1 cause u do d+=1 only when cap is exceeded
             cap=(l+r)//2
             load=0
 
